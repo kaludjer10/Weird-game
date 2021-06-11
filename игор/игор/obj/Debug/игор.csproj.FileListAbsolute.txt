@@ -1,0 +1,18 @@
+C:\Users\lukav\Desktop\игор\игор\bin\Debug\игор.exe.config
+C:\Users\lukav\Desktop\игор\игор\bin\Debug\игор.exe
+C:\Users\lukav\Desktop\игор\игор\bin\Debug\игор.pdb
+C:\Users\lukav\Desktop\игор\игор\obj\Debug\игор.csprojAssemblyReference.cache
+C:\Users\lukav\Desktop\игор\игор\obj\Debug\игор.Form1.resources
+C:\Users\lukav\Desktop\игор\игор\obj\Debug\игор.Properties.Resources.resources
+C:\Users\lukav\Desktop\игор\игор\obj\Debug\игор.csproj.GenerateResource.cache
+C:\Users\lukav\Desktop\игор\игор\obj\Debug\игор.exe
+C:\Users\lukav\Desktop\игор\игор\obj\Debug\игор.pdb
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\bin\Debug\игор.exe.config
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\bin\Debug\игор.exe
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\bin\Debug\игор.pdb
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\obj\Debug\игор.csprojAssemblyReference.cache
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\obj\Debug\игор.Form1.resources
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\obj\Debug\игор.Properties.Resources.resources
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\obj\Debug\игор.csproj.GenerateResource.cache
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\obj\Debug\игор.exe
+C:\Users\lukav\Desktop\програмирање шта знам\игор\игор\obj\Debug\игор.pdb
